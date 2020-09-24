@@ -1,0 +1,11 @@
+div{
+  box-sizing: border-box;
+}
+div.container{
+  padding-left: 1rem;
+  width: 50vw;
+  height: 100vh;
+}
+.edit_area{
+  border: 1px solid black;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './views/Home';
-import Edit from './views/Edit';
+import Edit from './views/Edit/Edit';
 //引入一些模块
 import {
   BrowserRouter as Router,
